@@ -1,0 +1,34 @@
+_repo: Prisoner-of-the-Brain-Mistress_63709
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Murphy, R. A.
+    gutenberg_agent_id: '52391'
+    url: http://www.gutenberg.org/2009/agents/52391
+creator:
+  author:
+    agent_name: Walton, Bryce
+    alias: O'Hara, Kenneth
+    birthdate: 1918
+    deathdate: 1988
+    gutenberg_agent_id: '33100'
+    url: http://www.gutenberg.org/2009/agents/33100
+    wikipedia: https://en.wikipedia.org/wiki/Bryce_Walton
+description: ''
+gutenberg_issued: '2020-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Abduction -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Prisoner of the Brain-Mistress
+url: http://www.gutenberg.org/ebooks/63709
